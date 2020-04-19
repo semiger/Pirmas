@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Pirmas</string>
+    <string name="app_name">Žodžių skaičiuoklė</string>
+    <string name="calculateButtonName">Skaičiuoti</string>
+    <string name="inputEmpty">Neįvestas tekstas</string>
+    <string-array name="calculationSelection">
+        <item name="words">Žodžius</item>
+        <item name="symbols">Ženklus</item>
+    </string-array>
 </resources>
