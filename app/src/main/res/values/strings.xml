@@ -2,8 +2,24 @@
     <string name="app_name">Žodžių skaičiuoklė</string>
     <string name="calculateButtonName">Skaičiuoti</string>
     <string name="inputEmpty">Neįvestas tekstas</string>
+    <string name="titleEmpty">Neįvestas pavadinimas</string>
+    <string name="contentEmpty">Neįvestas turinys</string>
+    <string name="notesLabel">Užrašai</string>
+    <string name="addNoteLabel">Pridėti užrašą</string>
+    <string name="deleteNoteLabel">Ištrinti užrašą</string>
+    <string name="noteLabel">Pavadinimas</string>
+    <string name="noteContent">Turinys</string>
     <string-array name="calculationSelection">
         <item name="words">Žodžius</item>
         <item name="symbols">Ženklus</item>
     </string-array>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
